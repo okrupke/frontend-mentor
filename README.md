@@ -25,8 +25,7 @@ This project is a simple QR code component that displays a QR code image with ac
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/okrupke/qr-code-component-main)
-- Live Site URL: [Live Demo](https://okrupke.github.io/qr-code-component-main)
-
+- Live Site URL: [Live Demo](https://okrupke.github.io/frontend-mentor)
 ## My process
 
 ### Built with
