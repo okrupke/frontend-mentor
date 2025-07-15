@@ -13,46 +13,46 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 20px;
+  padding: 1.25rem;
 }
 
 /* QR Code Component */
 .qr-container {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 20px;
-  padding: 16px;
-  max-width: 320px;
+  border-radius: 1.25rem;
+  padding: 1rem;
+  max-width: 20rem;
   text-align: center;
-  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1.5rem 1.5rem rgba(0, 0, 0, 0.05);
 }
 
 .qr-image {
   width: 100%;
-  border-radius: 10px;
-  margin-bottom: 24px;
+  border-radius: 0.6rem;
+  margin-bottom: 1.5rem;
 }
 
 .qr-title {
-  font-size: 22px;
+  font-size: 1.5rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
   line-height: 1.3;
 }
 
 .qr-description {
-  font-size: 15px;
+  font-size: 1rem;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
   line-height: 1.4;
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
 }
 
 /* Attribution */
 .attribution { 
-  font-size: 11px; 
+  font-size: 0.6rem; 
   text-align: center;
-  margin-top: 20px;
+  margin-top: 1.25rem;
 }
 
 .attribution a { 
